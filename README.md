@@ -12,3 +12,14 @@ Spring Boot、MyBatis-Plus、MySQL、Redis、JWT、RabbitMQ、Knife4j、Vue3、E
 **智能搜索推荐系统**：系统实现了基于关键字匹配的智能搜索建议功能，能够实时为用户提供景点和攻略的搜索建议。通过优化数据库索引和查询算法，搜索响应时间控制在200毫秒以内，支持每秒处理超过1000次搜索请求，大大提升了用户的搜索体验。
 
 **多维度数据统计分析**：系统内置了全面的数据统计和分析功能，可实时监控订单量、用户活跃度、景点热度等关键指标。后台管理界面直观展示了各项业务数据，帮助运营人员及时了解业务状况，其中订单处理模块支持每日处理超过10000笔订单交易。
+
+# 项目展示
+[![pZlIFpV.jpg](https://s41.ax1x.com/2025/12/18/pZlIFpV.jpg)](https://imgchr.com/i/pZlIFpV)
+[![pZlIPf0.jpg](https://s41.ax1x.com/2025/12/18/pZlIPf0.jpg)](https://imgchr.com/i/pZlIPf0)
+[![pZlIklT.jpg](https://s41.ax1x.com/2025/12/18/pZlIklT.jpg)](https://imgchr.com/i/pZlIklT)
+[![pZlICYq.jpg](https://s41.ax1x.com/2025/12/18/pZlICYq.jpg)](https://imgchr.com/i/pZlICYq)
+[![pZlI9kn.jpg](https://s41.ax1x.com/2025/12/18/pZlI9kn.jpg)](https://imgchr.com/i/pZlI9kn)
+[![pZlIA6U.jpg](https://s41.ax1x.com/2025/12/18/pZlIA6U.jpg)](https://imgchr.com/i/pZlIA6U)
+[![pZlIEXF.jpg](https://s41.ax1x.com/2025/12/18/pZlIEXF.jpg)](https://imgchr.com/i/pZlIEXF)
+[![pZlIZm4.jpg](https://s41.ax1x.com/2025/12/18/pZlIZm4.jpg)](https://imgchr.com/i/pZlIZm4)
+
